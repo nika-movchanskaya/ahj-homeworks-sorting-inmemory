@@ -1,5 +1,5 @@
 ## Working result
-[https://nmovchanskaya.github.io/ahj-homeworks-sorting-inmemory/]
+https://nmovchanskaya.github.io/ahj-homeworks-sorting-inmemory/
 
 ## Task
 
